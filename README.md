@@ -15,12 +15,13 @@ Wykłady odbywają się w sali 329 w godzinach 12:15-14:00
 - 2026-04-14 	
 - 2026-04-21 	
 - 2026-04-28
-- 2026-05-05 - Wykład: Literatura i Related works
-- 2026-05-19 - Wykład: Pytania badawcze i związane z nimi eksperymenty
-- 2026-05-26 - Wykład: Kluczowe kontrybucje 
-- 2026-06-02 - Wykład: Abstrakt i tytuł  
-- 2026-06-09 - Wykład: Recenzje artykułów naukowych
+- 2026-05-05 - Wykład: (Całkonalia)
+- 2026-05-19 - Wykład: Kluczowe kontrybucje 
+- 2026-05-26 - Wykład: Wykresy i tabele, Metody i Eksperymenty
+- 2026-06-02 - Wykład: Wprowadzenie, Dyskusja i Powiązane prace
+- 2026-06-09 - Wykład: Abstrakt i Tytuł
 - 2026-06-16 - Wykład: Prezentacje projektów
+
 
 ## Zaliczenie i oceny
 
